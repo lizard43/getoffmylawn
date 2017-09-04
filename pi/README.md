@@ -36,3 +36,7 @@
 ### Screen Saver, Menubar, Mouse AND autostart python script
 
 - edit the /home/pi/.config/lxsession/LXDE-pi/autostart to disable the screen saver, hide the menubar, hide the mouse and start the python script at start
+
+### Wifi
+
+- Configure the pi to connect to the NodeMCU's AP by editing a [config script](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)

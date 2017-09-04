@@ -27,6 +27,9 @@
 | GND | Pin 34 - GND |
 | Data | Pin 40 - BCM21 |
 
+
+ | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/NeoPixel-Stick.jpg" width="500" | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/Raspberry-Pi-GPIO.2.png" width="800" /> |
+
 ## Misc Pi changes
 
 ### Screen Saver, Menubar, Mouse AND autostart python script

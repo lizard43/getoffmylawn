@@ -23,9 +23,9 @@
 
 | NeoPixel Pin | Pi Zero W Pin |
 | --- | --- |
-| 5V | Pin 2 - 5V |
+| 4-7VDC | Pin 2 - 5V |
 | GND | Pin 34 - GND |
-| Data | Pin 40 - BCM21 |
+| DIN | Pin 40 - BCM21 |
 
 
  | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/NeoPixel-Stick.jpg" width="500" /> | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/Raspberry-Pi-GPIO.2.png" width="800" /> |

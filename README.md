@@ -3,7 +3,11 @@ Raspberry Pi Zero W with a 3.5" LCD to show my availability state: Available, Kn
 
 I'm using a NodeMCU Access Point (AP) with a pushbutton to control the state.
 
-And I need to see the current state so I added a NeoPixel stick.
+Since the screen will be mounted on my door facing away from me, I need to see the current state so I added a NeoPixel stick that will glow with green, yellow, red.
+
+I also plan to add other options to this such as Out-of-Office.
+
+The NodeMCU is in an Altoids tin and will sit near my desk so I can press a button to change the state as-needed.
 
 | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/avail.png" width="500" /> | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/knock.png" width="500" /> |
 |-|-|

@@ -5,8 +5,8 @@ I'm using a NodeMCU Access Point (AP) with a pushbutton to control the state.
 
 And I need to see the current state so I added a NeoPixel stick.
 
- | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/avail.png" width="500" /> | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/knock.png" width="500" /> |
- | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/dnd.png" width="500" /> | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/nodemcu.png" width="500" /> |
+| <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/avail.png" width="500" /> | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/knock.png" width="500" /> |
+| <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/dnd.png" width="500" /> | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/nodemcu.png" width="500" /> |
 |-|-|
 
 ## Parts

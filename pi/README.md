@@ -29,6 +29,7 @@
 
 
  | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/NeoPixel-Stick.jpg" width="500" /> | <img src="https://github.com/lizard43/getoffmylawn/blob/master/images/Raspberry-Pi-GPIO.2.png" width="800" /> |
+|-|-|
 
 ## Misc Pi changes
 
